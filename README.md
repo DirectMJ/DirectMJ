@@ -1,4 +1,4 @@
-<h2>Hi! I'm MJ</h2>
+<h1>Hi! I'm MJ</h1>
 <h3>Junior Software Engineer</h3>
 
 # 💻 Tech Stack:
