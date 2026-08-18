@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1>Hi!I'm MJ<h1><br><br>
+<h2>Hi! I'm MJ</h2>
 <h2>Junior Software Engineer</h2>
 
 # 💻 Tech Stack:
