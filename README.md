@@ -1,4 +1,3 @@
-# 💫 About Me:
 <h2>Hi! I'm MJ</h2>
 <h2>Junior Software Engineer</h2>
 
